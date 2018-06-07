@@ -7,7 +7,7 @@ public class CalculateSomething {
 
 	//Method Join Points
 	
-	// This method is added to demonstrate Befor and After Advice
+	// This method is added to demonstrate Before and After Advice
 	public void makeMyCalculation() {
 		/** Do your Calculation */
 		System.out.println("Calculating...");
