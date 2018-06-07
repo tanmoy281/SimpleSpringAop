@@ -5,6 +5,8 @@ import org.springframework.stereotype.Component;
 @Component
 public class CalculateSomething {
 
+	//Method Join Points
+	
 	// This method is added to demonstrate Befor and After Advice
 	public void makeMyCalculation() {
 		/** Do your Calculation */
